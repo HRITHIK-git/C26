@@ -48,7 +48,8 @@ function draw(){
     ground.display();
     pig1.display();
     log1.display();
-
+ //This is sketch.js library
+ 
     box3.display();
     box4.display();
     pig3.display();
